@@ -24,4 +24,4 @@ Course | Duration | Prerequisites | Books | Complete by | Completed
 [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines/home/week/1) | 10 weeks | Calculus 1 and basic programming | None | 01/01/2023 | []
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer/home/week/1) | 6 weeks | C language | None | 01/01/2023 | []
 Building a Game on sega Genesis(project) | 12 weeks | C language | None | 01/01/2023 | []
-[Intro to Biology](https://www.edx.org/course/introduction-to-biology-the-secret-of-life-3?utm_source=openlearning&utm_medium=referral&utm_campaign=mitx_catalog) | 16 Weeks | Highschool | None | Feb 21, 2023 | []
+[Intro to Biology](https://courses.edx.org/dashboard) | 16 Weeks | Highschool | None | Feb 21, 2023 | []
