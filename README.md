@@ -1,12 +1,21 @@
 # Self Learning Curriculum
 
 # First Term
+
+Important Links
+:--
+[Mit open learning](https://openlearninglibrary.mit.edu/dashboard)
+[Udemy](https://www.udemy.com/home/my-courses/learning/)
+
 **Break Down**:
 `Math Course`
 `Algorithms`
 `Systems`
 `Programming Project`
 `Biology and Anatomy`
+
+**Schedule For First Term**:
+https://docs.google.com/spreadsheets/d/1IHBhXlvIRuKTw5WkJcZipqCkESuzBW6MJ9q8BwYZVjA/edit?usp=sharing
 
 Course | Duration | Prerequisites | Books | Complete by | Completed
 :-- | :--: | :--: | :--: | :--: | :--:
