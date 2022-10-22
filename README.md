@@ -25,3 +25,4 @@ Course | Duration | Prerequisites | Books | Complete by | Completed
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer/home/week/1) | 6 weeks | C language | None | 01/01/2023 | []
 Building a Game on sega Genesis (Project) | 12 weeks | C language | None | 01/01/2023 | []
 [Intro to Biology](https://courses.edx.org/dashboard) | 16 Weeks | Highschool | None | Feb 21, 2023 | []
+Game Maker Studio Final project (Break down project) | 2 Weeks | Sumo Game redo | None | Decemeber 2022 | []
