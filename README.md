@@ -27,3 +27,4 @@ High School Math (Review) [algebra](https://www.khanacademy.org/math/college-alg
 Building a Game on sega Genesis (Project) | 12 weeks | C language | None | 01/01/2023 | []
 [Intro to Biology](https://courses.edx.org/dashboard) (Nov 1, 2022) | 16 Weeks | Highschool | None | Feb 21, 2023 | []
 Game Maker Studio Final project (Break down project) | 2 Weeks | Sumo Game redo | None | Decemeber 2022 | []
+End term project | 2 weeks | finish Term 1 | none | feb 2023 | []
