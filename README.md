@@ -19,7 +19,7 @@ Game Maker Studio Final project (Break down project) | 2 Weeks | Sumo Game redo 
 Section 2
 Course | Duration | Prerequisites | Books | Complete by | Completed
 :-- | :--: | :--: | :--: | :--: | :--:
-Linear Algebra [udemy class](https://www.udemy.com/course/linear-algebra-course/learn/lecture/37511084?start=15#questions) [mit class](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | Month | NA | Howard anton book and gilbert strang book
+Linear Algebra [udemy class](https://www.udemy.com/course/linear-algebra-course/learn/lecture/37511084?start=15#questions) [mit class](https://ocw.mit.edu/courses/18-06sc-linear-algebra-fall-2011/) | Month | NA | Howard anton book and gilbert strang book | Jan 2 | []
 Calculus 3 [Calculus 3](https://www.udemy.com/course/calculus-3-with-the-math-sorcerer/learn/lecture/15740834?start=135#overview) | NA | calculus 2 | James Stwewart | current class ends 12/18/2023 [current grade A]
 Mario World 1-1 remake using SDL2 | 1 month | NA | NA | Jan 17 2024 | []
 Leet code 1 a day | Building Good habbits | NA | NA | Ongoing | NA
