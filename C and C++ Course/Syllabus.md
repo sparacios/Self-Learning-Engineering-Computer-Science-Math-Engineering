@@ -1,6 +1,6 @@
 - [] Week 1: first 3 assignments of practical C class read corresponding lectures to understand
 - [] Week 2: 4 - 6b assignments, project 1
 - [] Week 3: assignment 7 of practical C class and then assignment 1 of effective C++ class and pick 2 assignments of supplmentary work, project 2 of practical C
-- [] Week 4: asignment 2 of effective C++ and pick any 2 of supplmentary class work
+- [] Week 4: asignment 2 of effective C++ and pick any 2 of supplmentary class work, final project of practical c
 - [] Week 5: assignment 3 and pick 2 assignments of supplmentary work
 - [] Week 6: final project
